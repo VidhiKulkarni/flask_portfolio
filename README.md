@@ -1,8 +1,7 @@
-## CodeFish
-Runtime link: 
-
+## [Code Fish](https://nighthawkcodingsociety.com/projectsearch/details/Flask%20Portfolio%20Starter)
+Runtime link: https://portfolio.nighthawkcodingsociety.com/
 ### N22P4 CODEFISH
-### Name in Progress
+# Name in Progress
 > Be productive and organized, no matter if you're a student or teacher!
 
 ## Ideation
@@ -11,6 +10,18 @@ The overall idea of our website is to assist all DNHS individuals in their educa
 ## Purpose
 This is helpful to new teachers who might want to reference things about our school quickly or who might want to take attendance quickly. It gives students and opportunity to plan well and lets them know what they have to do each day, as well as allowing them to quickly communicate with peers and teachers.
 
+##Outline
+## 
+
+- [Finals Day](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#ntm)
+- [Week 10](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#week-10-pbl-team)
+- [Week 9](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#week-9-pbl-team)
+- [Week 8](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#week-8-pbl-team)
+- [Week 7](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#week-7-pbl-team)
+- [Week 4](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#week-4-pbl-team)
+- [Week 3](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#week-3-pbl-team)
+- [Week 1-2](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#week-1-2-pbl-team)
+- [Week 0](https://github.com/raad1masum/AP-CSA-Tri-1-Project/blob/main/README.md#week-1-2-pbl-team)
 
 
 | Name | Github Username | Github Profile | Issue | Journals | Commits |

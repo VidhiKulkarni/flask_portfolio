@@ -1,10 +1,44 @@
 ## [Code Fish](https://nighthawkcodingsociety.com/projectsearch/details/Flask%20Portfolio%20Starter)
 Runtime link: https://portfolio.nighthawkcodingsociety.com/
-### Idea
-Starter code should be fun and practical.
-### Visual thoughts
-#### Organize with Bootstrap menu 
-#### Add some color and fun through VANTA Visuals (birds, halo, solar, net)
+### N22P4 CODEFISH
+# Name in Progress
+> Be productive and organized, no matter if you're a student or teacher!
+
+## Ideation
+The overall idea of our website is to assist all DNHS individuals in their educational experiences in both learning and teaching through effective organization and productivity. We have two modes, for students and teachers, allowing them to document each day through the usage of calendars, planners, quick feedback, etc. 
+
+## Purpose
+This is helpful to new teachers who might want to reference things about our school quickly or who might want to take attendance quickly. It gives students and opportunity to plan well and lets them know what they have to do each day, as well as allowing them to quickly communicate with peers and teachers.
+
+
+
+
+| Name | Github Username | Issue | Journals | Commits |
+| - | - | - | - | - | - |
+| Saumya | saumyapalk233 | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/rpeddakama) | [Journal]
+(https://docs.google.com/document/d/1EXl1swo0bu7gyd5L3cyih_qrAqvfPnW-5OEac6n07zs/edit?usp=sharing)
+| [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=rpeddakama) |
+| Aryan | raad1masum | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/raad1masum) | [Journal](https://docs.google.com/document/d/1XdgObYAPpPuwJi6Kvq3mPO6OQn05WOdcwZ73aTua7e8/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=raad1masum) |
+| Vidhi | ArnavPalkhiwala | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues?q=is%3Aopen+assignee%3A%40me) | [Journal](https://docs.google.com/document/d/14JUKWkG_LahbXd0Sn64hrhkVfYiie1kDjvrUdF9fts8/edit) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=ArnavPalkhiwala) |
+| Prisha | amanj31 | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/amanj31) | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) |
+| Arushi | amanj31 | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/amanj31) | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Add some color and fun through VANTA Visuals (birds, halo, solar, net)
 #### Show some practical and fun links (hrefs) like Twitter, Git, Youtube
 #### Show project specific links (hrefs) per page
 

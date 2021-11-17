@@ -14,46 +14,19 @@ This is helpful to new teachers who might want to reference things about our sch
 
 | Name | Github Username | Github Profile | Issue | Journals | Commits |
 | - | - | - | - | - | - |
-| Saumya | saumyapalk23 | [@rpeddakama](https://github.com/rpeddakama) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/rpeddakama) | [Journal](https://docs.google.com/document/d/1vxzWnE3vU9BzimUlZjcTz79fNOBTLcT7G4B1LLMhNEw/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=rpeddakama) |
-| Prisha | raad1masum | [@raad1masum](https://github.com/raad1masum) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/raad1masum) | [Journal](https://docs.google.com/document/d/1XdgObYAPpPuwJi6Kvq3mPO6OQn05WOdcwZ73aTua7e8/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=raad1masum) |
-| Vidhi | ArnavPalkhiwala | [@ArnavPalkhiwala](https://github.com/ArnavPalkhiwala) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues?q=is%3Aopen+assignee%3A%40me) | [Journal](https://docs.google.com/document/d/14JUKWkG_LahbXd0Sn64hrhkVfYiie1kDjvrUdF9fts8/edit) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=ArnavPalkhiwala) |
-| Arushi | amanj31 | [@amanj31](https://github.com/amanj31) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/amanj31) | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) |
-| Aryan | amanj31 | [@amanj31](https://github.com/amanj31) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/amanj31) | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) |
+| Saumya | saumyapalk23 | [@saumyapalk23](https://github.com/rpeddakama) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/rpeddakama) | [Journal](https://drive.google.com/drive/folders/1pPq0Z7uad7MY3NJkkuK4iWQqUds9fYDI?usp=sharing) | [Commits](https://github.com/VidhiKulkarni/flask_portfolio/commits?author=saumyapalk23) |
+| Prisha | PrishaB | [@PrishaB](https://github.com/PrishaB) | [Issues](https://github.com/VidhiKulkarni/flask_portfolio/issues?q=is%3Aopen+assignee%3APrishaB) | [Journal](https://drive.google.com/drive/folders/1pPq0Z7uad7MY3NJkkuK4iWQqUds9fYDI?usp=sharing) | [Commits](https://github.com/VidhiKulkarni/flask_portfolio/commits?author=PrishaB) |
+| Vidhi | VidhiKulkarni | [@VidhiKulkarni](https://github.com/VidhiKulkarni) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues?q=is%3Aopen+assignee%3A%40me) | [Journal](https://drive.google.com/drive/folders/1pPq0Z7uad7MY3NJkkuK4iWQqUds9fYDI?usp=sharing) | [Commits](https://github.com/VidhiKulkarni/flask_portfolio/commits?author=VidhiKulkarni) |
+| Arushi | arushi10 | [@arushi10](https://github.com/arushi10) | [Issues](https://github.com/VidhiKulkarni/flask_portfolio/issues?q=is%3Aopen+assignee%3Aarushi10) | [Journal](https://drive.google.com/drive/folders/1pPq0Z7uad7MY3NJkkuK4iWQqUds9fYDI?usp=sharing) | [Commits](https://github.com/VidhiKulkarni/flask_portfolio/commits?author=arushi10) |
+| Aryan | Aryanboxout | [@Aryanboxout](https://github.com/Aryanboxout) | [Issues](https://github.com/VidhiKulkarni/flask_portfolio/issues?q=is%3Aopen+assignee%3AAryanboxout) | [Journal](https://drive.google.com/drive/folders/1pPq0Z7uad7MY3NJkkuK4iWQqUds9fYDI?usp=sharing) | [Commits](https://github.com/VidhiKulkarni/flask_portfolio/commits?author=Aryanboxout) |
 
-## Week 1
+## Week 0
 Ideation, planning
 
 | Name | Journal | Score |
 | - | - | - | 
-| Saumya | [Journal](https://docs.google.com/document/d/1vxzWnE3vU9BzimUlZjcTz79fNOBTLcT7G4B1LLMhNEw/edit?usp=sharing) | Score |
-| Prisha | [Journal](https://docs.google.com/document/d/1XdgObYAPpPuwJi6Kvq3mPO6OQn05WOdcwZ73aTua7e8/edit?usp=sharing) | Score |
-| Vidhi | [Journal](https://docs.google.com/document/d/14JUKWkG_LahbXd0Sn64hrhkVfYiie1kDjvrUdF9fts8/edit) | Score |
-| Arushi | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | Score |
-| Aryan | amanj31| [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) | Score |
-
-
-
-
-
-
-
-
-## Add some color and fun through VANTA Visuals (birds, halo, solar, net)
-#### Show some practical and fun links (hrefs) like Twitter, Git, Youtube
-#### Show project specific links (hrefs) per page
-
-### Implementation progress (August 13th, 2021)
-#### Project entry point is main.py, this enables Flask Web App and provides capability to renders templates (HTML files)
-#### The main.py is the  Web Server Gateway Interface, essentially it contains a HTTP route and HTML file relationship.  The Python code constructs WSGI relationships for index, kangaroos, walruses, and hawkers.
-#### The project structure contains many directories and files.  The template directory (containing html files) and static directory (containing js files) are common standards for HTML coding.  Static files can be pictures and videos, in this project they are mostly javascript backgrounds.
-#### WSGI templates: index.html, kangaroos.html, ... are aligned with routes in main.py.
-#### Other templates support WSGI templates.  The base.html template contains common Head, Style, Body, Script definitions.  WSGI templates often "include" or "extend" these templates.  This is a way to reuse code.
-#### The VANTA javascript statics (backgrounds) are shown and defaulted in base.html (birds), but are block replaced as needed in other templates (solar, net, ...)
-#### The Bootstrap Navbar code is in navbar.html. The base.html code includes navbar.html.  The WSGI html files extend base.html files.  This is a process of management and correlation to optimize code management.  For instance, if the menu changes discovery of navbar.html is easy, one change reflects on all WSGI html files. 
-#### Jinja2 variables usage is to isolate data and allow redefinitions of attributes in templates.  Observe "{% set variable = %}" syntax for definition and "{{ variable }}" for reference.
-#### The base.html uses combination of Bootstrap grid styling and custom CSS styling.  Grid styling in observe with the "<Col-3>" markers.  A Bootstrap Grid has a width of 12, thus four "Col-3" markers could fit on a Grid row.
-#### A key purpose of this project is to embed links to other content.  The "href=" definition embeds hyperlinks into the rendered HTML.  The base.html file shows usage of "href={{github}}", the "{{github}}" is a Jinja2 variable.  Jinja2 variables are pre-processed by Python, a variable swap with value, before being sent to the browser.
-
-### IDE management (things that happened beyond plan)
-#### Recall on ".gitignore" solution to the pains of temporary files.  Start a ".gitignore" and avoid promoting temporary files to Git, for instance IDE xml files.
-#### A project needs to establish a "requirements.txt" to keep track of Python packages used by the project.  This help in other IDEs and Deployment.  IntelliJ has menu Tool -> Sync Python Requirements to start file. 
+| Saumya | [Journal](https://docs.google.com/document/d/1EXl1swo0bu7gyd5L3cyih_qrAqvfPnW-5OEac6n07zs/edit) | Score |
+| Prisha | [Journal](https://docs.google.com/document/d/16o3o5L5B4DmtTVELuLkJn74eIoZSZdqsb6bwgiK-lzw/edit) | Score |
+| Vidhi | [Journal](https://docs.google.com/document/d/1EXl1swo0bu7gyd5L3cyih_qrAqvfPnW-5OEac6n07zs/edit) | Score |
+| Arushi | [Journal](https://docs.google.com/document/d/16o3o5L5B4DmtTVELuLkJn74eIoZSZdqsb6bwgiK-lzw/edit) | Score |
+| Aryan | [Journal](https://docs.google.com/document/d/16o3o5L5B4DmtTVELuLkJn74eIoZSZdqsb6bwgiK-lzw/edit) | Score |

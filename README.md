@@ -24,7 +24,7 @@ This is helpful to new teachers who might want to reference things about our sch
 Ideation, planning
 
 | Name | Journal | Score |
-| - | - | - | - | - | - |
+| - | - | - | 
 | Saumya | [Journal](https://docs.google.com/document/d/1vxzWnE3vU9BzimUlZjcTz79fNOBTLcT7G4B1LLMhNEw/edit?usp=sharing) | Score |
 | Prisha | [Journal](https://docs.google.com/document/d/1XdgObYAPpPuwJi6Kvq3mPO6OQn05WOdcwZ73aTua7e8/edit?usp=sharing) | Score |
 | Vidhi | [Journal](https://docs.google.com/document/d/14JUKWkG_LahbXd0Sn64hrhkVfYiie1kDjvrUdF9fts8/edit) | Score |

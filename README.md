@@ -12,18 +12,17 @@ This is helpful to new teachers who might want to reference things about our sch
 
 
 
-
-| Name | Github Username | Issue | Journals | Commits |
+| Name | Github Username | Github Profile | Issue | Journals | Commits |
 | - | - | - | - | - | - |
-| Saumya | saumyapalk233 | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/rpeddakama) | [Journal]
-(https://docs.google.com/document/d/1EXl1swo0bu7gyd5L3cyih_qrAqvfPnW-5OEac6n07zs/edit?usp=sharing)
-| [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=rpeddakama) |
-| Aryan | raad1masum | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/raad1masum) | [Journal](https://docs.google.com/document/d/1XdgObYAPpPuwJi6Kvq3mPO6OQn05WOdcwZ73aTua7e8/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=raad1masum) |
-| Vidhi | ArnavPalkhiwala | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues?q=is%3Aopen+assignee%3A%40me) | [Journal](https://docs.google.com/document/d/14JUKWkG_LahbXd0Sn64hrhkVfYiie1kDjvrUdF9fts8/edit) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=ArnavPalkhiwala) |
-| Prisha | amanj31 | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/amanj31) | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) |
-| Arushi | amanj31 | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/amanj31) | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) |
+| Saumya | saumyapalk23 | [@rpeddakama](https://github.com/rpeddakama) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/rpeddakama) | [Journal](https://docs.google.com/document/d/1vxzWnE3vU9BzimUlZjcTz79fNOBTLcT7G4B1LLMhNEw/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=rpeddakama) |
 
+| Prisha | raad1masum | [@raad1masum](https://github.com/raad1masum) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/raad1masum) | [Journal](https://docs.google.com/document/d/1XdgObYAPpPuwJi6Kvq3mPO6OQn05WOdcwZ73aTua7e8/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=raad1masum) |
 
+| Vidhi | ArnavPalkhiwala | [@ArnavPalkhiwala](https://github.com/ArnavPalkhiwala) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues?q=is%3Aopen+assignee%3A%40me) | [Journal](https://docs.google.com/document/d/14JUKWkG_LahbXd0Sn64hrhkVfYiie1kDjvrUdF9fts8/edit) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=ArnavPalkhiwala) |
+
+| Arushi | amanj31 | [@amanj31](https://github.com/amanj31) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/amanj31) | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) |
+
+| Aryan | amanj31 | [@amanj31](https://github.com/amanj31) | [Issues](https://github.com/raad1masum/AP-CSA-Tri-1-Project/issues/assigned/amanj31) | [Journal](https://docs.google.com/document/d/1DZxo0UIKQWJ7KLox5hkE96J63tFqWoBb3ydF6jgcSg0/edit?usp=sharing) | [Commits](https://github.com/raad1masum/AP-CSA-Tri-1-Project/commits?author=amanj31) |
 
 
 

@@ -1,7 +1,7 @@
-## [Code Fish](https://nighthawkcodingsociety.com/projectsearch/details/Flask%20Portfolio%20Starter)
+## CodeFish
 Runtime link: https://portfolio.nighthawkcodingsociety.com/
 ### N22P4 CODEFISH
-# Name in Progress
+### Name in Progress
 > Be productive and organized, no matter if you're a student or teacher!
 
 ## Ideation
